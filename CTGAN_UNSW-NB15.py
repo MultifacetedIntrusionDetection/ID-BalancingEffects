@@ -14,11 +14,6 @@ import pandas as pd
 import numpy as np
 import os
 
-# threshold_normal = 10
-# threshold_dos = 5 #21073
-# threshold_probe = 53344
-# threshold_r2l = 64005
-# threshold_u2r = 64948
 
 threshold_normal = 1
 threshold_analysis = 30000
